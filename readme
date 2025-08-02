@@ -1,0 +1,16 @@
+basics of java
+---public class basics
+----public static void main(String args[])
+comments
+----// -/*  */
+data types
+---byte(8 bits)
+---short(16 bytes)
+---int(32)
+---long(64)
+---float(decimals use 'f')
+---double(15 decimals)
+---char(' ')
+----the error we get is incompatible loss conversion, if we use the differnet value in different datatypes
+
+
